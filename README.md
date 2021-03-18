@@ -19,7 +19,7 @@
 # **Demonstration of the application - Mobile Layout** 📱
 
 <p align="center">
-  <img src="./.github/demonstration-mobile.gif" width="1400px"/>
+  <img src="./.github/demonstration-mobile.gif" width="350px"/>
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 - Add a new spend or revenue
 - Calculate total spending, revenue, and total summed
 - List expenses or revenues
-
+- 
 ## 🚀 Technologies used:
 
 <p align="center">
@@ -37,6 +37,7 @@
 <img src="https://styled-components.com/logo.png" alt="styled-components" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
+<img src="https://pbs.twimg.com/profile_images/1183866058882478080/AJriyo2N.jpg" alt="miragejs" width="70" height="70"/>
 
 </p>
 
@@ -52,7 +53,6 @@ To run the application on the web, follow the instructions from your terminal:
 - `cd ignite-reactjs-chapter_II-dt_money` and `code .`
 - run `yarn` to install the dependencies of the project
 - After that, run `yarn start` to run the application, will open at the address `localhost:3000`
-- [Web application](h) - remember to be with the server running for better usability of the application
 
 <br>
 
