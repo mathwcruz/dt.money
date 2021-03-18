@@ -4,9 +4,9 @@
 
 ## **<h2 align="center">Front end application  💻</h2>**
 
-## <p><h2 align="center">Financial control application developed in ignite's second module delivered by [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
+## <p><h2 align="center">Financial control application developed in Ignite's second module delivered by [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
 
-<h3>In addition to the proposed challenge, animations were added, some minor changes in CSS were made and I developed the entire responsive layout for the mobile version</h3>
+<h3>In addition to the proposed application, animations were added, some minor changes in CSS were made and I developed the entire responsive layout for the mobile version</h3>
 
 # **Demonstration of the application - Web Layout** 💻
 
@@ -28,7 +28,7 @@
 - Add a new spend or revenue
 - Calculate total spending, revenue, and total summed
 - List expenses or revenues
-- 
+
 ## 🚀 Technologies used:
 
 <p align="center">
@@ -44,7 +44,7 @@
 <br>
 
 ## 💻 Application installation
-- `git clone https://github.com/mathwcruz/ignite-reactjs-chapter_II-dt_money.git` para clonar o repositório
+- `git clone https://github.com/mathwcruz/ignite-reactjs-chapter_II-dt_money.git` to clone the repository
 
 <br>
 
