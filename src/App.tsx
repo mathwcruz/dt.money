@@ -1,26 +1,42 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { useState } from 'react';
+import Modal from 'react-modal';
 
-function App() {
+import { TransactionsProvider } from './hooks/useTransactions';
+
+import { Header } from './components/Header/index';
+import { Dashboard } from './components/Dashboard/index';
+import { NewTransactionModal } from './components/NewTransactionModal'
+
+import { GlobalStyle } from './styles/global';
+
+Modal.setAppElement('#root'); //questão de acessibilidade
+
+export function App() {
+  //os estados e funções do modal ficam aqui no componente <App /> pq o componente <Header /> recebe uma função, caso essas funções e estado estivessem no arquivo do componente NewTransactionModal, não seria possível passar ao componente <Header /> a função de abrir o modal
+  const [isNewTransactionModalOpen, setIsNewTransactionModalOpen] = useState(false);
+
+  function handleOpenNewTransactionModal() {
+    setIsNewTransactionModalOpen(true); //abrindo o modal
+  };
+
+  function handleCloseNewTransactionModal() {
+    setIsNewTransactionModalOpen(false); //fechando o modal
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <TransactionsProvider> {/* envolvendo toda a aplicação com o Contexto de Transações */}
+      <Header 
+        onOpenNewTransactionModal={handleOpenNewTransactionModal} //passando a função que abre o modal
+      />
 
-export default App;
+      <Dashboard />
+
+      <NewTransactionModal
+        isOpen={isNewTransactionModalOpen} //conferindo se o modal está aberto ou fechado
+        onRequestClose={handleCloseNewTransactionModal} //fechando o modal
+      />
+
+      <GlobalStyle />
+    </TransactionsProvider>
+  );
+};

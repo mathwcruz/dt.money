@@ -1,0 +1,6 @@
+- (yarn add miragejs) para lidar com API "fakes
+
+- (yarn add react-modal) para lidar com modais em react
+  - (yarn add @types/react-modal -D)
+
+- (yarn add polished) para lidar com funções de cores
