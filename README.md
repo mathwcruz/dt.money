@@ -70,7 +70,7 @@ To run the application on the web, follow the instructions from your terminal:
 
 <br>
 
-### Autor
+### Author
 ---
 
 <a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend">
