@@ -26,7 +26,7 @@
 <br>
 
 <h3 align="center"> 
-	 Application status: Developed ✔️
+	 Application status: Finalized ✔️
 </h3>
 <br>
 
