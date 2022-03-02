@@ -46,13 +46,12 @@
 ## :rocket: Technologies used:
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/>
-<img src="https://styled-components.com/logo.png" alt="styled-components" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://pbs.twimg.com/profile_images/1183866058882478080/AJriyo2N.jpg" alt="miragejs" width="70" height="70"/>
-
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/html5_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvaHRtbDVfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDYxOTQsImV4cCI6MTk2MTYwNjE5NH0.-BskkaDZ3OvYWL1qdFP-dY5FmyicAcs5n6P-ItqrrLc" alt="html5"  width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/css3_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvY3NzM19pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjIyMCwiZXhwIjoxOTYxNjA2MjIwfQ.Rgr9A5EicnCH-YRaCSlMglE3_Jif0H5KOnuvH1rUf5A" alt="css3" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/styled_components_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc3R5bGVkX2NvbXBvbmVudHNfaWNvbi5wbmciLCJpYXQiOjE2NDYyNDY1NDksImV4cCI6MTk2MTYwNjU0OX0.ghCdv8QMSfJNxkVnV1NVUdjRlan3dHl7rYLdCOI4_yc" alt="styled-components" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/miraje_js_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvbWlyYWplX2pzX2ljb24ucG5nIiwiaWF0IjoxNjQ2MjQ4MDMwLCJleHAiOjE5NjE2MDgwMzB9.Z9Jght1a6yL8htIRrWCWYbgmBPH-GYfF6Y_kuHttalQ" alt="miragejs" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDY1NjEsImV4cCI6MTk2MTYwNjU2MX0.rEGrv6fy9osG8okJAocY2LAe92rygmldkoNGTPggmvA" alt="react" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcyNiwiZXhwIjoxOTYxNjA2NzI2fQ.W404dqHwT_A4lfmg7st0cyj1aJxJH3PZtCnux_iVv_s" alt="typescript" width="70" height="70"/>
 </p>
 
 <br>
