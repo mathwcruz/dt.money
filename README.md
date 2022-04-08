@@ -4,11 +4,11 @@
 
 ## **<h2 align="center">Front end application  💻</h2>**
 
-## <p><h2 align="center">Financial control application developed in Ignite's second module delivered by [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
+## <p><h2 align="center">Financial control application</h2> </p>
 
 ## <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
 
-<h3>In addition to the proposed application, animations were added, some minor changes in CSS were made and I developed the entire responsive layout for the mobile version</h3>
+<h3 align="center">In addition to the proposed application, animations were added, some minor changes in CSS were made and I developed the entire responsive layout for the mobile version</h3>
 
 <p align="center">
   <a href="#computer-demonstration-of-the-application-web">Demonstration of the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -83,9 +83,4 @@ Desenvolvido por Matheus da Cruz 😊
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
 
-## **<p align="center">Thank you very much to the people of Rocketseat 🚀 for the excellent content and didactics, it is clear the impact of this company in my studies 🙂</p>**
-
-## **<p align="center">Starting the walk to be able to participate in the marathon in this world of programming 🏃‍</p>**
-
 ### <p> <h2 align="center">Another application by Matheus da Cruz 👨‍💻 </h2> </p>
-
