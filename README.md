@@ -23,20 +23,15 @@
   <img src="./.github/demonstration-web.gif" width="1400px"/>
 </p>
 
-<br>
-
 <h3 align="center"> 
 	 Application status: Finalized ✔️
 </h3>
-<br>
 
 # **Demonstration of the application - Mobile Layout** 📱
 
 <p align="center">
   <img src="./.github/demonstration-mobile.gif" width="350px"/>
 </p>
-
-<br>
 
 ## :star: Features
 - [x] Add a new spend or revenue
@@ -54,20 +49,14 @@
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcyNiwiZXhwIjoxOTYxNjA2NzI2fQ.W404dqHwT_A4lfmg7st0cyj1aJxJH3PZtCnux_iVv_s" alt="typescript" width="70" height="70"/>
 </p>
 
-<br>
-
 ## :information_source: Application installation
 - `git clone https://github.com/mathwcruz/ignite-reactjs-chapter_II-dt_money.git` to clone the repository
-
-<br>
 
 # 🎲 Run application
 To run the application on the web, follow the instructions from your terminal:
 - `cd ignite-reactjs-chapter_II-dt_money` and `code .`
 - run `yarn` to install the dependencies of the project
 - After that, run `yarn start` to run the application, will open at the address `localhost:3000`
-
-<br>
 
 ### Author
 ---
@@ -79,6 +68,3 @@ To run the application on the web, follow the instructions from your terminal:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
-<br>
-
-<h2 align="center">Another application developed by Matheus da Cruz 👨‍💻 </h2>
