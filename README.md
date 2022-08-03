@@ -20,7 +20,7 @@
 # :computer: Demonstration of the application Web
 
 <p align="center">
-  <img src="./.github/demonstration-web.gif" width="1400px"/>
+  <img src="./.github/demonstration-web.gif" width="100%"/>
 </p>
 
 <h3 align="center"> 
@@ -30,7 +30,7 @@
 # **Demonstration of the application - Mobile Layout** 📱
 
 <p align="center">
-  <img src="./.github/demonstration-mobile.gif" width="350px"/>
+  <img src="./.github/demonstration-mobile.gif" width="30%"/>
 </p>
 
 ## :star: Features
